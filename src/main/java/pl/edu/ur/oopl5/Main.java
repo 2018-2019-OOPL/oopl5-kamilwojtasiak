@@ -9,9 +9,13 @@ package pl.edu.ur.oopl5;
  *
  */
 public class Main {
-
+import package pl.edu.ur.oopl5.book;
     public static void main(String[] args) {
-
+System.out.println("zadanie 2");
+ 
+public void settitle(String atitle){
+    this.attile = title;
+}
         
         
         
